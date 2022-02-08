@@ -1,5 +1,4 @@
 # AWS CDK for Service Catalog Portfolio Product
----
 
 ## Prerequisite
 AWS Credentials Env Setup
