@@ -105,6 +105,10 @@
       "type": "runtime"
     },
     {
+      "name": "@aws-cdk/aws-codedeploy",
+      "type": "runtime"
+    },
+    {
       "name": "@aws-cdk/aws-codepipeline",
       "type": "runtime"
     },

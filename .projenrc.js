@@ -9,6 +9,7 @@ const project = new awscdk.AwsCdkTypeScriptApp({
     '@aws-cdk/pipelines',
     '@aws-cdk/aws-codecommit',
     '@aws-cdk/aws-codebuild',
+    '@aws-cdk/aws-codedeploy',
     '@aws-cdk/aws-codepipeline',
     '@aws-cdk/aws-codepipeline-actions',
     '@aws-cdk/aws-servicecatalog',
@@ -28,6 +29,7 @@ const project = new awscdk.AwsCdkTypeScriptApp({
     '@aws-cdk/aws-cloudwatch',
     '@aws-cdk/aws-s3-deployment',
     '@aws-cdk/aws-s3-assets',
+    '@aws-cdk/cloudformation-include',
     'chalk',
   ], /* Runtime dependencies of this module. */
   // description: undefined,  /* The description is just a string that helps people understand the purpose of the package. */
